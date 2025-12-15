@@ -1,7 +1,3 @@
-Here is the upgraded `README.md` file. It acknowledges that this repository consolidates your work from the two specific source repositories while detailing the structure and projects included.
-
------
-
 # Winter Internship 2025
 
 This repository serves as a comprehensive log of my progress and projects developed during the **Winter Internship 2025**. It consolidates and expands upon the work originally initiated in my **[Learning\_Pandas](https://github.com/Dharm3112/Learning_Pandas.git)** and **[Learning\_Python\_Form\_Scratch](https://github.com/Dharm3112/Learning_Python_Form_Scratch.git)** repositories.
