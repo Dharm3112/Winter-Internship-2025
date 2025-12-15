@@ -107,5 +107,5 @@ A robust console-based application implemented in two versions to demonstrate di
 ## 📝 Author
 
 <p align="center">
- **[Dharm Patel](https://github.com/Dharm3112)**
+ **[Dharm Patel](https://github.com/Dharm3112)]**
 </p>
