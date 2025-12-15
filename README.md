@@ -100,5 +100,13 @@ A robust console-based application implemented in two versions to demonstrate di
     pip install pymongo
     ```
 
-## 📝 Author
- **[Dharm Patel](https://github.com/Dharm3112)**
+````
+
+## 🎓 Acknowledgments
+
+  * **Learning Source**: [Sahajanand Digital](https://github.com/sahajananddigital)
+    
+  * **Concept**: Based on a common frontend challenge (Testimonials Grid Section) to practice CSS Grid skills.
+    
+  *  **Done By [Dharm Patel](https://github.com/Dharm3112)**
+
