@@ -104,7 +104,7 @@ A robust console-based application implemented in two versions to demonstrate di
 
   * **Learning Source**: [Sahajanand Digital](https://github.com/sahajananddigital)
     
-  * **Concept**: Based on a common frontend challenge (Testimonials Grid Section) to practice CSS Grid skills.
+  * **Concept**: A structured exploration of Python's core capabilities, ranging from fundamental logic and Object-Oriented Programming (OOP) to database management (SQL & NoSQL) and data analysis using Pandas.
     
   *  **Done By [Dharm Patel](https://github.com/Dharm3112)**
 
