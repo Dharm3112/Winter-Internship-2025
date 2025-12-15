@@ -100,9 +100,7 @@ A robust console-based application implemented in two versions to demonstrate di
     pip install pymongo
     ```
 
-````
-
-## 🎓 Acknowledgments
+ ## 🎓 Acknowledgments
 
   * **Learning Source**: [Sahajanand Digital](https://github.com/sahajananddigital)
     
